@@ -1,1 +1,1 @@
-I am Vee and I like cheese cake. This is first GIT project.
+I am cheese cake. This is first GIT project.
